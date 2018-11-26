@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Diabetes Assistance</string>
+
+    <!-- Activities Titles -->
+    <string name="title_activity_all_medicines">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_edit_medicine">Edit Medicine</string>
+    <string name="title_activity_medicine_details">Medicine Details</string>
+
+    <!-- General -->
+    <string name="logo">Logo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="take">Take</string>
+    <string name="arrow">Arrow</string>
+    <string name="pendingMedicines">Pending Medicines</string>
+
+    <!-- Home -->
+    <string name="addMedicine">Add Medicine</string>
+    <string name="synchronize">Synchronize</string>
+
+    <!-- Login -->
+    <string name="userName">Username:</string>
+    <string name="password">Password:</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+
+    <!-- Medicine -->
+    <string name="medicinePhoto">Medicine Photo</string>
+    <string name="typePhoto">Type Photo</string>
+    <string name="captureImage">Captrue\nImage</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="dose">Dose:</string>
+    <string name="startDate">Start Date:</string>
+    <string name="from">From:</string>
+    <string name="endDate">End Date:</string>
+    <string name="to">To:</string>
+    <string name="startTime">Start Time:</string>
+    <string name="interval">Interval:</string>
+    <string name="notes">Notes:</string>
+</resources>
